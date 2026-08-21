@@ -3,4 +3,4 @@
 ## Idee
 Einen Passwort-Generator programmieren.
 Ein Programm, das zufällige und sichere Passwörter erstellt. 
-
+Das Passwort wird automatisch aus verschiedenen Buchstaben, Zahlen und Sonderzeichen zusammengesetzt.
