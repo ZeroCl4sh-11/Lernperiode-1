@@ -12,3 +12,10 @@ Neues Projekt starten: Taschenrechner
 - [ ] ich fange mit meinem Taschenrechner an und mache die Eingabe von 2 zahlen
 - [ ] ich baue die Rechenarten von plus, minus, mal und geteilt.
 - [ ] ich baue mit if und else die verschiedenen Rechenzeichen ein und verbessere den Taschenrechner.
+## Heute 
+- [ ] ich habe das Programm enstprechen den Anweisungen von ihnen gemacht.
+- [ ] ich habe mir gedanken gemacht was ich noch machen kann.
+# Nächstes Mal
+- [ ] ich möchte mein program noch mehr ubgraden mit so passwort Stärkeeinstellungen.
+- [ ] Aussprechbare Passwörter
+- [ ] Grossbuchstaben an und aus
