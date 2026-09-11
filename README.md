@@ -16,6 +16,6 @@ Neues Projekt starten: Taschenrechner
 - [ ] ich habe das Programm enstprechen den Anweisungen von ihnen gemacht.
 - [ ] ich habe mir gedanken gemacht was ich noch machen kann.
 # Nächstes Mal
-- [ ] ich möchte mein program noch mehr ubgraden mit so passwort Stärkeeinstellungen.
+- [ ] Ich möchte mein Programm noch mehr Upgraden mit so Passwort Stärkeeinstellungen.
 - [ ] Aussprechbare Passwörter
 - [ ] Grossbuchstaben an und aus
