@@ -1,5 +1,19 @@
 # Lernperiode-1
 **21.08.2026**
+## Mein Projekt
+Mein Programm kann Dir ein random passwort generator. Es hat verschiedene Passwort Typen. Es ist ein sehr simples Programm.
+
+<img width="866" height="461" alt="image" src="https://github.com/user-attachments/assets/08481fed-0417-4a89-9138-4b9d624acbb2" />
+
+
+
+
+
+
+
+
+
+
 ## Idee
 Einen Passwort-Generator programmieren.
 Ein Programm, das zufällige und sichere Passwörter erstellt. 
