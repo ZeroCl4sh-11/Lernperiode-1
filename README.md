@@ -45,3 +45,12 @@ Ich habe eine andere Idee gehabt ich habe an meinem Programm Upgradet indem ich 
 Ich habe die Ziele gemach die ich mir gestellt habe. Ich überlege mir noch was ich für morgen machen kann ich musst den code umbauen damit ich die sachen einfügen kann. Ich habe noch so Notizen eingefügt.
 ## Nächstes Mal
 - [ ] Problem mit der Auswahl des Passworttyp alles andere als 1,2,3,4
+## Heute 
+ich habe das Problem gelöst und mein Programm beendet.
+
+## Reflexion
+Reflexion
+
+Bei meinem Projekt habe ich einen Random-Passwort-Generator programmiert. Am Anfang wusste ich noch nicht genau, wie ich das Programm aufbauen soll. Ich hatte auch einige Fehler im Code und wusste manchmal nicht wie ich sie lösen kann. Mit etwas Hilfe konnte ich die Fehler aber beheben und das Programm fertigstellen.
+Ich habe bei diesem Projekt gelernt wie man zufällige Buchstaben Zahlen und Sonderzeichen kombinieren um ein Passwort zu erstellen. Außerdem habe ich gelernt besser mit if und else zu arbeiten und Eingaben vom Benutzer zu verarbeiten. Ich musste auch selber überlegen wie mein Programm funktionieren soll.
+Insgesamt bin ich mit meinem Projekt zufrieden, weil ich am Anfang noch nicht alles verstanden habe und am Schluss einen funktionierenden Passwort-Generator hatte. Ich habe gemerkt, dass man beim Programmieren manchmal Fehler macht aber durch Ausprobieren und Nachdenken kann man sie lösen.
