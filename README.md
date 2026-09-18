@@ -30,4 +30,4 @@ Ich habe eine andere Idee gehabt ich habe an meinem Programm Upgradet indem ich 
 ## Heute
 Ich habe die Ziele gemach die ich mir gestellt habe. Ich überlege mir noch was ich für morgen machen kann ich musst den code umbauen damit ich die sachen einfügen kann. Ich habe noch so Notizen eingefügt.
 ## Nächstes Mal
-- [ ] Passwort kopieren können
+- [ ] Problem mit der Auswahl des Passworttyp alles andere als 1,2,3,4
