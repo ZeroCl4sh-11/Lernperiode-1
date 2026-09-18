@@ -1,18 +1,26 @@
 ﻿using System;
 using System.ComponentModel.Design;
 
+
 class Program
 {
     static void Main()
     {
+       
+
+
         string zeichen = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
         string passwort = "";
         Random zufall = new Random();
 
+
+
         Console.WriteLine("Wie viele Zeichen soll dein Passwort haben?");
         int x = Convert.ToInt32(Console.ReadLine());
 
-        if (x > 12)
+       
+
+        if (x > 17)
         {
             Console.WriteLine("Dein Passwort ist zu lang!");
             return;
@@ -25,7 +33,11 @@ class Program
         Console.WriteLine("4 - Aussprechbare Wörter");
 
         int y = Convert.ToInt32(Console.ReadLine());
-
+        if (y < 1 || y > 4)
+        {
+            Console.WriteLine("Ungültige Auswahl!");
+            return;
+        }
         if (y == 1)
         {
             Console.WriteLine("Grossbuchstaben? ja/nein");
@@ -42,7 +54,22 @@ class Program
 
         if (y == 4)
         {
-            string[] woerter = { "Haus", "Auto", "Baum", "Apfel", "Katze" };
+            string[] woerter =
+{
+                      "Haus", "Auto", "Baum", "Apfel", "Katze",
+                           "Hund", "Sonne", "Mond", "Stern", "Wasser",
+                           "Feuer", "Berg", "Wald", "Blume", "Tiger",
+                            "Löwe", "Adler", "Fisch", "Vogel", "Panda",
+                                 "Schnee", "Regen", "Wind", "Wolke", "Donner",
+                                      "Sommer", "Winter", "Frühling", "Herbst", "Nacht",
+                                                 "Tag", "Meer", "Strand", "Insel", "Fluss",
+                                            "Brücke", "Schule", "Buch", "Tisch", "Stuhl",
+                                                         "Lampe", "Fenster", "Tür", "Garten", "Haus",
+                                                          "Kaffee", "Pizza", "Kuchen", "Apfel", "Banane",
+                                                                   "Orange", "Zitrone", "Computer", "Handy", "Tastatur",
+                                                                             "Maus", "Spiel", "Musik", "Film", "Ball",
+                                                                                       "Rakete", "Planet", "Universum", "Roboter", "Drache"
+};
 
             for (int i = 0; i < 3; i++)
                 passwort += woerter[zufall.Next(woerter.Length)];
@@ -52,12 +79,19 @@ class Program
             for (int i = 0; i < x; i++)
                 passwort += zeichen[zufall.Next(zeichen.Length)];
         }
-        
-        if (passwort.Length >= 16)
+
+        if (passwort.Length >= 10)
             Console.WriteLine("Passwortstärke: Stark");
         else
             Console.WriteLine("Passwortstärke: Mittel");
 
+        
+        
         Console.WriteLine("Das Passwort: " + passwort);
+
+       
+
     }
+
 }
+
